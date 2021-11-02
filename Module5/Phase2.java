@@ -1,6 +1,6 @@
 /***********************************************************************************
 *
-*   Phase 2: Encapsulating Layount and Icons into CardTable and GUICard Classes
+*   Phase 2: Encapsulating Layout and Icons into CardTable and GUICard Classes
 *   The second part creates a separate CardTable class that extends JFrame. This 
 *   class will control the positioning of the panels and cards of the GUI. We also 
 *   create a new GUICard class that manages the reading and building of the card image 
